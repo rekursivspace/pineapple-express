@@ -1,0 +1,157 @@
+{
+    "playlist": [
+        {
+            "index": "1",
+            "title" :"Happy",
+            "artist" :"Pharell",
+            "mp3" : "media/1.mp3",
+            "price" : "$4.99",
+            "song_id"   : "11",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "2",
+            "title" :"Love me again",
+            "artist" :"John Newman",
+            "mp3" : "media/2.mp3",
+            "price" : "$1.99",
+            "song_id"   : "12",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "3",
+            "title" :"The Singer",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/3.mp3",
+            "price" : "$2.99",
+            "song_id"   : "13",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "4",
+            "title" :"As We Collide",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/4.mp3",
+            "price" : "$3.99",
+            "song_id"   : "14",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "5",
+            "title" :"Till the Sunrise",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/1.mp3",
+            "price" : "$4.99",
+            "song_id"   : "15",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "6",
+            "title" :"Surprises",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/2.mp3",
+            "price" : "$1.99",
+            "song_id"   : "16",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "7",
+            "title" :"Homecoming",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/3.mp3",
+            "price" : "$2.99",
+            "song_id"   : "17",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "8",
+            "title" :"Platinium",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/4.mp3",
+            "price" : "$3.99",
+            "song_id"   : "18",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "9",
+            "title" :"Touch",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/1.mp3",
+            "price" : "$4.99",
+            "song_id"   : "19",
+            "thumbnail" : "http://teothemes.com/html/music/content/songs-small-01.jpg"
+        },
+        {
+            "index": "10",
+            "title" :"Swim Good",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/2.mp3",
+            "price" : "$1.99",
+            "song_id"   : "20",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "11",
+            "title" :"The Great Escape",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/3.mp3",
+            "price" : "$2.99",
+            "song_id"   : "21",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "12",
+            "title" :"I'm coming home",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/4.mp3",
+            "price" : "$3.99",
+            "song_id"   : "22",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "13",
+            "title" :"Always be",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/1.mp3",
+            "price" : "$4.99",
+            "song_id"   : "23",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "14",
+            "title" :"Perfect day",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/2.mp3",
+            "price" : "$1.99",
+            "song_id"   : "24",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "15",
+            "title" :"I do",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/3.mp3",
+            "price" : "$2.99",
+            "song_id"   : "25",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "16",
+            "title" :"Anywhere you do",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/4.mp3",
+            "price" : "$3.99",
+            "song_id"   : "26",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        },
+        {
+            "index": "17",
+            "title" :"You will always find",
+            "artist" :"Holley Mayer",
+            "mp3" : "media/1.mp3",
+            "price" : "$4.99",
+            "song_id"   : "27",
+            "thumbnail" : "http://teothemes.com/html/music/content/player-image.jpg"
+        }
+    ]
+}
